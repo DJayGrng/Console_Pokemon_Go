@@ -9,6 +9,4 @@ The Pokemon is then matched with an enemy.
 Choose the options out of the attacks given.
 
 
-How to Run:
-
-Just download the file, compile and and run it
+How to Run: Just download the file, compile and and run it
